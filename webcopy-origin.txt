@@ -1,0 +1,132 @@
+Uri: https://lihtar.karta.uno/images/favicon.png
+File Name: D:\Сайт2\ukraineshopcom.github.io\images\favicon.png
+Content Type: image/png
+
+Uri: https://ukraineshopcom.github.io/stelag/?fbclid=IwY2xjawFguqxleHRuA2FlbQIxMAABHZgtAWcOvisM7GLSYFfrS_v0I5U6cBGVoLgCtVv-05s8QEc5hp_yOJIhfQ_aem_h7Tlny3pA0RXj9dbUP0vCQ
+File Name: D:\Сайт2\ukraineshopcom.github.io\stelag\index.htm
+Content Type: text/html
+
+Uri: https://ukraineshopcom.github.io/stelag/tovartopp_files/УКр.png
+File Name: D:\Сайт2\ukraineshopcom.github.io\stelag\tovartopp_files\УКр.png
+Content Type: image/png
+
+Uri: https://ukraineshopcom.github.io/stelag/tovartopp_files/001.jpeg.png
+File Name: D:\Сайт2\ukraineshopcom.github.io\stelag\tovartopp_files\001.jpeg.png
+Content Type: image/png
+
+Uri: https://ukraineshopcom.github.io/stelag/tovartopp_files/002.jpeg
+File Name: D:\Сайт2\ukraineshopcom.github.io\stelag\tovartopp_files\002.jpeg
+Content Type: image/jpeg
+
+Uri: https://ukraineshopcom.github.io/stelag/tovartopp_files/all.min.css
+File Name: D:\Сайт2\ukraineshopcom.github.io\stelag\tovartopp_files\all.min.css
+Content Type: text/css
+
+Uri: https://ukraineshopcom.github.io/stelag/tovartopp_files/Bratello.css
+File Name: D:\Сайт2\ukraineshopcom.github.io\stelag\tovartopp_files\Bratello.css
+Content Type: text/css
+
+Uri: https://ukraineshopcom.github.io/stelag/tovartopp_files/css2
+File Name: D:\Сайт2\ukraineshopcom.github.io\stelag\tovartopp_files\css2
+Content Type: application/octet-stream
+
+Uri: https://ukraineshopcom.github.io/stelag/tovartopp_files/fontss.css
+File Name: D:\Сайт2\ukraineshopcom.github.io\stelag\tovartopp_files\fontss.css
+Content Type: text/css
+
+Uri: https://ukraineshopcom.github.io/stelag/tovartopp_files/i.css
+File Name: D:\Сайт2\ukraineshopcom.github.io\stelag\tovartopp_files\i.css
+Content Type: text/css
+
+Uri: https://ukraineshopcom.github.io/stelag/tovartopp_files/initnotbad.js.завантаження
+File Name: D:\Сайт2\ukraineshopcom.github.io\stelag\tovartopp_files\initnotbad.js.завантаження
+Content Type: application/octet-stream
+
+Uri: https://ukraineshopcom.github.io/stelag/tovartopp_files/jquery.maskedinput.min.js.завантаження
+File Name: D:\Сайт2\ukraineshopcom.github.io\stelag\tovartopp_files\jquery.maskedinput.min.js.завантаження
+Content Type: application/octet-stream
+
+Uri: https://ukraineshopcom.github.io/stelag/tovartopp_files/jquery.min.js.завантаження
+File Name: D:\Сайт2\ukraineshopcom.github.io\stelag\tovartopp_files\jquery.min.js.завантаження
+Content Type: application/octet-stream
+
+Uri: https://ukraineshopcom.github.io/stelag/tovartopp_files/nastyle.css
+File Name: D:\Сайт2\ukraineshopcom.github.io\stelag\tovartopp_files\nastyle.css
+Content Type: text/css
+
+Uri: https://ukraineshopcom.github.io/stelag/tovartopp_files/options.css
+File Name: D:\Сайт2\ukraineshopcom.github.io\stelag\tovartopp_files\options.css
+Content Type: text/css
+
+Uri: https://ukraineshopcom.github.io/stelag/tovartopp_files/ProximaStara.css
+File Name: D:\Сайт2\ukraineshopcom.github.io\stelag\tovartopp_files\ProximaStara.css
+Content Type: text/css
+
+Uri: https://ukraineshopcom.github.io/stelag/tovartopp_files/push.css
+File Name: D:\Сайт2\ukraineshopcom.github.io\stelag\tovartopp_files\push.css
+Content Type: text/css
+
+Uri: https://ukraineshopcom.github.io/stelag/tovartopp_files/q1.jpg
+File Name: D:\Сайт2\ukraineshopcom.github.io\stelag\tovartopp_files\q1.jpg
+Content Type: image/jpeg
+
+Uri: https://ukraineshopcom.github.io/stelag/tovartopp_files/q3.jpg
+File Name: D:\Сайт2\ukraineshopcom.github.io\stelag\tovartopp_files\q3.jpg
+Content Type: image/jpeg
+
+Uri: https://ukraineshopcom.github.io/stelag/tovartopp_files/q4.jpg
+File Name: D:\Сайт2\ukraineshopcom.github.io\stelag\tovartopp_files\q4.jpg
+Content Type: image/jpeg
+
+Uri: https://ukraineshopcom.github.io/stelag/tovartopp_files/q5.jpg
+File Name: D:\Сайт2\ukraineshopcom.github.io\stelag\tovartopp_files\q5.jpg
+Content Type: image/jpeg
+
+Uri: https://ukraineshopcom.github.io/stelag/tovartopp_files/q6.jpg
+File Name: D:\Сайт2\ukraineshopcom.github.io\stelag\tovartopp_files\q6.jpg
+Content Type: image/jpeg
+
+Uri: https://ukraineshopcom.github.io/stelag/tovartopp_files/q7.jpg
+File Name: D:\Сайт2\ukraineshopcom.github.io\stelag\tovartopp_files\q7.jpg
+Content Type: image/jpeg
+
+Uri: https://ukraineshopcom.github.io/stelag/tovartopp_files/q8.jpg
+File Name: D:\Сайт2\ukraineshopcom.github.io\stelag\tovartopp_files\q8.jpg
+Content Type: image/jpeg
+
+Uri: https://ukraineshopcom.github.io/stelag/tovartopp_files/qqq1.jpg
+File Name: D:\Сайт2\ukraineshopcom.github.io\stelag\tovartopp_files\qqq1.jpg
+Content Type: image/jpeg
+
+Uri: https://ukraineshopcom.github.io/stelag/tovartopp_files/slicka.css
+File Name: D:\Сайт2\ukraineshopcom.github.io\stelag\tovartopp_files\slicka.css
+Content Type: text/css
+
+Uri: https://ukraineshopcom.github.io/stelag/tovartopp_files/swiper-bundle.min.css
+File Name: D:\Сайт2\ukraineshopcom.github.io\stelag\tovartopp_files\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://ukraineshopcom.github.io/stelag/tovartopp_files/w1.jpg
+File Name: D:\Сайт2\ukraineshopcom.github.io\stelag\tovartopp_files\w1.jpg
+Content Type: image/jpeg
+
+Uri: https://ukraineshopcom.github.io/stelag/tovartopp_files/w2.jpg
+File Name: D:\Сайт2\ukraineshopcom.github.io\stelag\tovartopp_files\w2.jpg
+Content Type: image/jpeg
+
+Uri: https://ukraineshopcom.github.io/stelag/tovartopp_files/w3.jpg
+File Name: D:\Сайт2\ukraineshopcom.github.io\stelag\tovartopp_files\w3.jpg
+Content Type: image/jpeg
+
+Uri: https://ukraineshopcom.github.io/stelag/tovartopp_files/w4.jpg
+File Name: D:\Сайт2\ukraineshopcom.github.io\stelag\tovartopp_files\w4.jpg
+Content Type: image/jpeg
+
+Uri: https://ukraineshopcom.github.io/stelag/tovartopp_files/wqwqw.jpg
+File Name: D:\Сайт2\ukraineshopcom.github.io\stelag\tovartopp_files\wqwqw.jpg
+Content Type: image/jpeg
+
+Uri: https://www.facebook.com/tr?id=2193196244386658&ev=PageView&noscript=1
+File Name: D:\Сайт2\ukraineshopcom.github.io\tr
+Content Type: text/plain
+

@@ -1,0 +1,1173 @@
+.number-discount{
+    border-radius: 35px;
+    background: #ffffff;
+    padding: 20px 0;
+    margin: 20px 0;
+    text-align: center;
+}
+
+.discount-list{
+    margin: 10px 0 0 20px;
+    padding: 0;
+    font-size: 24px;
+}
+.discount-list li{
+    padding: 5px 20px;
+    font-weight: 200;
+}
+.discount-list strong{
+    font-weight: 700;
+}
+
+.m1-form ::-webkit-input-placeholder {
+ color: #333;
+}
+
+.m1-form ::-moz-placeholder {
+ color: #333;
+}
+
+.m1-form :-moz-placeholder {
+ color: #333;
+}
+
+.m1-form :-ms-input-placeholder {
+ color: #333;
+}
+
+.m1-form :focus::-webkit-input-placeholder {
+ color: transparent;
+}
+
+.m1-form :focus::-moz-placeholder {
+ color: transparent;
+}
+
+.m1-form :focus:-moz-placeholder {
+ color: transparent;
+}
+
+.m1-form :focus:-ms-input-placeholder {
+ color: transparent;
+}
+
+.hidden {
+ display: none;
+}
+
+.center {
+ text-align: center;
+}
+
+.just {
+ text-align: justify;
+ -moz-text-align-last: center;
+ text-align-last: center;
+}
+
+.clrfix:after {
+ content: '';
+ display: block;
+ clear: both;
+}
+
+.clear {
+ clear: both;
+ height: 0;
+}
+
+.ulfix {
+ font-size: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+ font-weight: 700;
+}
+
+b, strong {
+ font-weight: 700;
+}
+
+body {
+ width: 100%;
+ min-width: 320px;
+ padding: 0;
+ margin: 0 auto;
+ font-family: 'Proxima Nova', Arial, Helvetica, sans-serif;
+ font-weight: 400;
+ font-size: 18px;
+ line-height: 26px;
+ color: #333;
+ background: #D6E3DC;
+}
+
+section {
+ width: 100%;
+ margin: 0 auto;
+ padding: 35px 0;
+}
+
+.wrap {
+ position: relative;
+ background: #D6E3DC;
+ width: 480px;
+ height: 100%;
+ padding: 0;
+ margin: 0 auto;
+}
+
+.wrap:after {
+ clear: both;
+ content: "";
+ display: table;
+}
+
+.nopad {
+ padding: 0;
+}
+
+.m1-form input.field {
+ text-align-last: center;    
+ position: relative;
+ display: block;
+ outline: 0;
+ border: none;
+ background: #fff;
+ width: 100%;
+ height: 83px;
+ line-height: 83px;
+ margin: 0 auto 12px;
+ padding: 0 20px;
+ font-family: 'Proxima Nova', Arial, Helvetica, sans-serif;
+ font-size: 20px;
+ font-weight: 400;
+ color: #333;
+ text-align: center;
+ -webkit-border-radius: 35px;
+ -moz-border-radius: 35px;
+ border-radius: 35px;
+ -webkit-transition: all 0.2s;
+ -moz-transition: all 0.2s;
+ -o-transition: all 0.2s;
+ -ms-transition: all 0.2s;
+ transition: all 0.2s;
+}
+
+.m1-form select.field {
+ position: relative;
+ display: block;
+ outline: 0;
+ border: none;
+ background: #fff;
+ width: 100%;
+ height: 83px;
+ line-height: 83px;
+ margin: 0 auto 12px;
+ padding: 0 20px;
+ font-family: 'Proxima Nova', Arial, Helvetica, sans-serif;
+ font-size: 20px;
+ font-weight: 400;
+ color: #333;
+ text-align-last: center;
+ text-align: center;
+ -webkit-border-radius: 35px;
+ -moz-border-radius: 35px;
+ border-radius: 35px;
+ -webkit-transition: all 0.2s;
+ -moz-transition: all 0.2s;
+ -o-transition: all 0.2s;
+ -ms-transition: all 0.2s;
+ transition: all 0.2s;
+}
+
+.button-m {
+    position: relative;
+    display: block;
+    width: 420px;
+    height: 90px;
+    line-height: 93px;
+    margin: 0 auto;
+    border: none;
+    text-align: center;
+    font-family: 'Acrom', Arial, Helvetica, sans-serif;
+    font-size: 26px;
+    font-weight: 800;
+    text-transform: uppercase;
+    text-decoration: none;
+    cursor: pointer;
+    color: #ffffff;
+    text-shadow: 0 2px 0 #9f3e1d;
+    background: #ED5D2C;
+    background: -moz-linear-gradient(top, #ED5D2C 0%, #d65225 100%);
+    background: -webkit-linear-gradient(top, #ED5D2C 0%, #d65225 100%);
+    background: linear-gradient(to bottom, #ED5D2C 0%, #d65225 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ED5D2C', endColorstr='#d65225', GradientType=0);
+    -webkit-box-shadow: 0 3px 0 #9f3e1d;
+    box-shadow: 0 3px 0 #9f3e1d;
+    -webkit-border-radius: 35px;
+    -moz-border-radius: 35px;
+    border-radius: 35px;
+    -webkit-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    -o-transition: all 0.2s;
+    -ms-transition: all 0.2s;
+    transition: all 0.2s;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+.button-m:active {
+ top: 1px;
+}
+
+.m1-form {
+ width: 420px;
+ margin: 0 auto;
+}
+
+.m1-form .button-m {
+ width: 100%;
+}
+
+h2.title {
+ font-size: 28px;
+ font-weight: 700;
+ line-height: 42px;
+ margin: 0 0 35px;
+ text-align: center;
+ text-transform: uppercase;
+ color: #ED5D2C;
+}
+
+h2.title span {
+ display: block;
+ color: #000000;
+}
+
+
+h2.title.white span {
+ color: #000000;
+}
+
+.pat {
+ position: relative;
+ background: #D6E3DC;
+}
+
+/*   price   */
+
+.price {
+ position: relative;
+ width: 420px;
+ height: 89px;
+ margin: -70px auto 35px;
+ background: url("../images/price-bg.png") 50% 0 no-repeat;
+ -webkit-box-shadow: 0 0 18px rgba(0, 0, 0, 0.21);
+ -moz-box-shadow: 0 0 18px rgba(0, 0, 0, 0.21);
+ box-shadow: 0 0 18px rgba(0, 0, 0, 0.21);
+ -webkit-border-radius: 35px;
+ -moz-border-radius: 35px;
+ border-radius: 35px;
+}
+
+.price:after {
+ clear: both;
+}
+
+.price > div {
+ float: left;
+ width: 50%;
+ text-align: center;
+ line-height: 30px;
+ padding-top: 12px;
+}
+
+.price .old {
+ color: #313131;
+}
+
+.price .new {
+ color: #fff;
+}
+
+.price .val {
+ font-size: 33px;
+}
+
+.price .val i {
+ font-style: normal;
+ font-size: 26px;
+ text-transform: uppercase;
+}
+
+.price .old span {
+ text-decoration: line-through;
+}
+
+.price .new .val {
+ font-weight: 700;
+}
+
+/*   timer   */
+
+.timer {
+ margin: 10px 0 40px;
+ text-align: center;
+}
+
+.timer .timer-title {
+ margin: 0 0 5px;
+ font-family: 'Acrom', Arial, Helvetica, sans-serif;
+ font-size: 25px;
+ font-weight: 700;
+ color: #fff;
+ padding-bottom: 20px;
+}
+
+.timer .timer-item:first-child {
+ margin-left: 80px;
+}
+
+.timer .timer-item:last-child {
+ margin-right: 0;
+}
+
+.timer .timer-item {
+ position: relative;
+ float: left;
+ width: 80px;
+ height: 92px;
+ background: #fff;
+ text-align: center;
+ margin: 0 20px;
+ padding-top: 16px;
+ -webkit-border-radius: 20px;
+ -moz-border-radius: 20px;
+ border-radius: 20px;
+}
+
+.timer .timer-item:before {
+ position: absolute;
+ top: 0;
+ right: -40px;
+ display: block;
+ width: 40px;
+ line-height: 92px;
+ font-size: 40px;
+ font-weight: 700;
+ color: #fff;
+ text-align: center;
+ content: ':';
+}
+
+.timer .timer-item:last-child:before {
+ display: none;
+}
+
+.timer .count {
+ font-weight: 700;
+ font-size: 40px;
+ line-height: 40px;
+}
+
+.timer .text {
+ font-size: 18px;
+ line-height: 18px;
+}
+
+/*   stock   */
+
+.stock {
+ text-align: center;
+ padding-top: 20px;
+}
+
+.stock.white {
+ color: #fff;
+}
+
+.stock b {
+ display: inline-block;
+ width: 36px;
+ height: 36px;
+ line-height: 36px;
+ color: #fff;
+ margin: 0 4px;
+ background: #4559b3;
+ -webkit-border-radius: 50%;
+ -moz-border-radius: 50%;
+ border-radius: 50%;
+}
+
+/*   video   */
+
+.video-block {
+ padding: 0 30px;
+}
+
+.video-container {
+ position: relative;
+ background: #333;
+ padding-bottom: 56.25%;
+ height: 0;
+ -webkit-box-shadow: 0 0 18px rgba(0, 0, 0, 0.24);
+ -moz-box-shadow: 0 0 18px rgba(0, 0, 0, 0.24);
+ box-shadow: 0 0 18px rgba(0, 0, 0, 0.24);
+ -webkit-border-radius: 40px;
+ -moz-border-radius: 40px;
+ border-radius: 40px;
+ overflow: hidden;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed,
+.video-container .youtube {
+ position: absolute;
+ top: 0;
+ left: 0;
+ width: 100%;
+ height: 100%;
+}
+
+
+.slider {
+ padding: 0px 0 45px;
+}
+
+.slider a.button-m {
+ margin-top: 30px;
+}
+
+.slider-photo .item img {
+ display: block;
+}
+
+/*   slick-dots   */
+
+.slick-dots {
+ height: 23px;
+ text-align: center;
+ margin-top: 25px;
+}
+
+.slick-dots:after {
+ clear: both;
+ content: "";
+ display: block;
+ height: 0;
+ width: 0;
+ visibility: hidden;
+}
+
+.slick-dots li {
+ display: inline-block;
+ vertical-align: top;
+ padding: 0 6px;
+ overflow: hidden;
+}
+
+.slick-dots li button {
+ display: block;
+ width: 23px;
+ height: 23px;
+ text-indent: -9999px;
+ background: none;
+ border: 2px solid #333746;
+ cursor: pointer;
+ -webkit-border-radius: 50%;
+ -moz-border-radius: 50%;
+ border-radius: 50%;
+}
+
+.slick-dots li.slick-active button {
+ background: #333746;
+}
+
+.offer {
+ padding: 0;
+ background: #1e4238;
+}
+
+.offer .box {
+ position: relative;
+ background: url("https://luks-shop.store/ledlamp/images/offer.jpg") 50% 0 no-repeat;
+ height: 600px;
+}
+
+.offer .main-title {
+ font-family: 'Acrom', Arial, Helvetica, sans-serif;
+ font-size: 24px;
+ font-weight: 700;
+ line-height: 34px;
+ color: #ffffff;
+ text-align: center;
+ text-transform: uppercase;
+ padding: 10px 0 3px;
+}
+
+.offer .sub-title {
+ font-size: 25px;
+ color: #fff;
+ text-align: center;
+ padding-bottom: 15px;
+}
+
+.offer .sale {
+background: url(https://luks-shop.store/ledlamp/images/sale-bg.png) 0 0 no-repeat;
+    width: 209px;
+    height: 113px;
+    margin-left: 267px;
+    color: #fff;
+    font-size: 26px;
+    line-height: 40px;
+    text-align: center;
+    margin-top: 143px;
+    position: absolute;
+}
+
+.offer .sale span {
+ display: inline-block;
+ transform: rotate(-7deg);
+ padding-top: 9px;
+}
+
+.offer .sale b {
+ display: block;
+ font-size: 50px;
+}
+
+.offer .bullet {
+ font-size: 0;
+ padding: 0 10px 20px;
+}
+
+.offer .bullet li {
+ display: inline-block;
+ vertical-align: top;
+ width: 33.33%;
+ font-size: 18px;
+ text-align: center;
+}
+
+.offer .bullet .pic {
+ position: relative;
+ margin-bottom: 15px;
+}
+
+.offer .bullet .pic:after {
+ position: absolute;
+ left: 50%;
+ bottom: -9px;
+ margin-left: -15px;
+ display: block;
+ width: 30px;
+ height: 30px;
+ background: url("../images/check-icon.png") 0 0 no-repeat;
+ content: '';
+}
+
+.offer .bullet img {
+ display: block;
+ margin: 0 auto;
+ border: 4px solid #fff;
+ -webkit-border-radius: 4px;
+ -moz-border-radius: 4px;
+ border-radius: 4px;
+}
+
+.offer .bullet p {
+ padding: 0 5px;
+    color: #f5f5f5;
+}
+
+.offer .order_form {
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.offer .order_form.pat:before {
+ background-color: #f9f9f9;
+}
+
+.offer.bottom .price {
+ position: relative;
+ margin-bottom: -55px;
+ z-index: 5;
+}
+
+.offer.bottom .timer {
+ margin-top: 30px;
+}
+
+.order_form .form-txt {
+ color: #000000;
+ text-align: center;
+ padding-bottom: 20px;
+}
+
+.order_form .form-txt h4 {
+ font-size: 30px;
+ padding-bottom: 7px;
+ text-transform: uppercase;
+}
+
+.order_form .form-txt p {
+ font-size: 18px;
+ padding: 0 75px;
+}
+
+/*   b1   */
+
+.b1 {
+ background: #D6E3DC;
+}
+
+.b1 h3 {
+text-align: center;
+    margin: 20px auto 0;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+
+.b1 .alert {
+    position: relative;
+    background: #D6E3DC;
+    color: #000000;
+    font-size: 17px;
+    text-align: left;
+    /*text-align: justify;*/
+    /*
+    text-align-last: center;
+    */
+    padding: 10px 8px 0;
+    margin: 0px 20px 0;
+}
+
+.b1 .list-v1 {
+ padding-bottom: 30px;
+}
+
+/*   b2   */
+
+.b2 {
+ padding-top: 25;
+}
+
+.b2.pat:before {
+ margin-bottom: 10px;
+}
+
+.b2 a.button-m {
+ margin-top: 40px;
+}
+
+/*   b3   */
+
+.b3 h2.title {
+ margin-bottom: 15px;
+}
+
+.b3 .alert {
+ position: relative;
+ background: #47abd2;
+ font-size: 19px;
+ color: #fff;
+ text-align: center;
+ padding: 30px 10px 20px;
+ margin: 20px 30px 0;
+ -webkit-border-radius: 40px;
+ -moz-border-radius: 40px;
+ border-radius: 40px;
+}
+
+.b3 .alert:before {
+ position: absolute;
+ left: 50%;
+ top: -23px;
+ margin-left: -23px;
+ display: block;
+ width: 45px;
+ height: 45px;
+ background: url("https://luks-shop.store/ledlamp/images/alert-icon2.png") 0 0 no-repeat;
+ content: '';
+}
+
+/*   b4   */
+
+.b4 div{
+    background: #D6E3DC;
+    padding: 25px 0px 30px;
+    margin: -29px auto 5px;
+}
+
+
+.b4 h2.title {
+ margin-bottom: 20px;
+}
+
+.b4 .image {
+ display: block;
+ margin-bottom: 30px;
+}
+
+.b4 .char-list {
+ padding-bottom: 40px;
+}
+
+/*   spec   */
+
+.spec h2.title span {
+ display: inline;
+}
+
+.spec .box {
+ background: #fff;
+ margin: 0 30px;
+ -webkit-box-shadow: 0 0 18px rgba(0, 0, 0, 0.21);
+ -moz-box-shadow: 0 0 18px rgba(0, 0, 0, 0.21);
+ box-shadow: 0 0 18px rgba(0, 0, 0, 0.21);
+ -webkit-border-radius: 35px;
+ -moz-border-radius: 35px;
+ border-radius: 35px;
+}
+
+.spec .box img {
+ display: block;
+ margin-bottom: 20px;
+ -webkit-border-radius: 35px 35px 0 0;
+ -moz-border-radius: 35px 35px 0 0;
+ border-radius: 35px 35px 0 0;
+}
+
+.spec .info {
+ background: url("https://luks-shop.store/ledlamp/images/spec-icon.jpg") 20px 50% no-repeat;
+ padding-left: 105px;
+ margin-bottom: 20px;
+}
+
+.spec .info h4 {
+ font-size: 20px;
+}
+
+.spec .info p {
+ font-size: 18px;
+ line-height: 24px;
+}
+
+.spec .txt {
+ font-size: 20px;
+ font-style: italic;
+ line-height: 28px;
+ padding: 0 15px 25px;
+}
+
+/*   list-v1   */
+
+.list-v1 {
+ padding: 0 30px;
+}
+
+.list-v1 li {
+ position: relative;
+ display: table;
+ width: 100%;
+ height: 162px;
+ margin-bottom: 25px;
+ padding-left: 203px;
+ background: #fff;
+ -webkit-box-shadow: 0 0 18px rgba(0, 0, 0, 0.24);
+ -moz-box-shadow: 0 0 18px rgba(0, 0, 0, 0.24);
+ box-shadow: 0 0 18px rgba(0, 0, 0, 0.24);
+ -webkit-border-radius: 40px;
+ -moz-border-radius: 40px;
+ border-radius: 40px;
+}
+
+.list-v1 li:last-child {
+ margin-bottom: 0;
+}
+
+.list-v1 img {
+ position: absolute;
+ top: 0;
+ left: 0;
+ display: block;
+ -webkit-border-radius: 40px 0 0 40px;
+ -moz-border-radius: 40px 0 0 40px;
+ border-radius: 40px 0 0 40px;
+}
+
+.list-v1 p {
+ display: table-cell;
+ vertical-align: middle;
+ font-size: 20px;
+ text-align: center;
+ padding: 0 15px;
+}
+
+.list-v1 p:before {
+ display: block;
+ background: url("https://luks-shop.store/ledlamp/images/not-icon.png") 0 0 no-repeat;
+ width: 34px;
+ height: 34px;
+ margin: 0 auto 10px;
+ content: '';
+}
+
+/*   list-v2   */
+
+.list-v2 {
+ padding: 0 30px;
+}
+
+.list-v2 li:last-child {
+ margin-bottom: 0;
+}
+
+.list-v2 li {
+ position: relative;
+ height: 210px;
+ margin-bottom: 30px;
+ line-height: 24px;
+ background: #fff;
+ -webkit-box-shadow: 0 0 18px rgba(0, 0, 0, 0.21);
+ -moz-box-shadow: 0 0 18px rgba(0, 0, 0, 0.21);
+ box-shadow: 0 0 18px rgba(0, 0, 0, 0.21);
+ -webkit-border-radius: 35px;
+ -moz-border-radius: 35px;
+ border-radius: 35px;
+}
+
+.list-v2 img {
+ position: absolute;
+ top: 0;
+ display: block;
+}
+
+.list-v2 li:nth-child(odd) img {
+ left: 0;
+ -webkit-border-radius: 35px 0 0 35px;
+ -moz-border-radius: 35px 0 0 35px;
+ border-radius: 35px 0 0 35px;
+}
+
+.list-v2 li:nth-child(even) img {
+ right: 0;
+ -webkit-border-radius: 0 35px 35px 0;
+ -moz-border-radius: 0 35px 35px 0;
+ border-radius: 0 35px 35px 0;
+}
+
+.list-v2 li:nth-child(odd) {
+ padding: 15px 10px 0 158px;
+}
+
+.list-v2 li:nth-child(even) {
+ padding: 15px 158px 0 25px;
+}
+
+.list-v2 h4 {
+ padding-bottom: 5px;
+ text-transform: uppercase;
+}
+
+.list-v2 p {
+ font-size: 17px;
+}
+
+/*   kit-list   */
+
+.kit-list {
+ background: url("https://luks-shop.store/ledlamp/images/kit-im.jpg") 0 0 no-repeat;
+ min-height: 609px;
+ padding: 27px 20px 0 250px;
+}
+
+.kit-list h4 {
+ font-size: 19px;
+ line-height: 28px;
+}
+
+.kit-list li:nth-child(1) {
+ height: 215px;
+}
+
+.kit-list li:nth-child(2) {
+ height: 165px;
+}
+
+/*   char-list   */
+
+.char-list li {
+ padding: 6px 30px;
+    color: #000000; 
+}
+/*
+.char-list li:nth-child(even) {
+ background: #2f3340;
+}
+*/
+.char-list li b {
+ display: block;
+ float: left;
+ width: 278px;
+}
+
+.char-list li span {
+ display: block;
+ margin-left: 285px;
+}
+
+/*   reviews   */
+
+.reviews {
+ padding-top: 0;
+}
+
+.reviews h2.title {
+ margin-bottom: 15px;
+}
+
+.reviews .total {
+ color: #000000;
+ font-weight: 700;
+ text-align: center;
+ padding-bottom: 30px;
+}
+
+.reviews .total:before {
+ position: relative;
+ top: -2px;
+ display: inline-block;
+ vertical-align: middle;
+ background: url("../images/total-icon.png") 0 0 no-repeat;
+ width: 27px;
+ height: 27px;
+ margin-right: 13px;
+ content: '';
+}
+
+.reviews .item {
+ margin: 0 30px 30px;
+ background: #f9f9f9;
+ -webkit-box-shadow: 0 0 18px rgba(0, 0, 0, 0.21);
+ -moz-box-shadow: 0 0 18px rgba(0, 0, 0, 0.21);
+ box-shadow: 0 0 18px rgba(0, 0, 0, 0.21);
+ -webkit-border-radius: 35px;
+ -moz-border-radius: 35px;
+ border-radius: 35px;
+}
+
+.reviews .photo {
+ position: relative;
+ padding-bottom: 15px;
+}
+
+.reviews .photo img {
+ -webkit-border-radius: 35px 35px 0 0;
+ -moz-border-radius: 35px 35px 0 0;
+ border-radius: 35px 35px 0 0;
+}
+
+.reviews .item .info {
+ position: relative;
+ min-height: 72px;
+ background: url("../images/qoute-icon.png") 100% 50% no-repeat;
+ margin: 0 20px 15px;
+ padding: 12px 0 0 90px;
+}
+
+.reviews .item .info img {
+ position: absolute;
+ left: 0;
+ top: 0;
+ display: block;
+ -webkit-border-radius: 50%;
+ -moz-border-radius: 50%;
+ border-radius: 50%;
+}
+
+.reviews .item .info p {
+ font-size: 17px;
+}
+
+.reviews .item .txt {
+ font-size: 20px;
+ line-height: 30px;
+ padding: 0 20px 20px;
+ text-align: center;
+}
+
+/*   order info   */
+
+.order-info h2.title {
+ padding: 0 30px;
+}
+
+.order-list {
+ padding: 0 30px;
+}
+
+.order-list li {
+ position: relative;
+ display: table;
+ width: 100%;
+ height: 160px;
+ font-size: 20px;
+ background: #fff;
+ padding-left: 185px;
+ margin-bottom: 20px;
+ -webkit-box-shadow: 0 0 18px rgba(0, 0, 0, 0.21);
+ -moz-box-shadow: 0 0 18px rgba(0, 0, 0, 0.21);
+ box-shadow: 0 0 18px rgba(0, 0, 0, 0.21);
+ -webkit-border-radius: 40px;
+ -moz-border-radius: 40px;
+ border-radius: 40px;
+}
+
+.order-list li:last-child {
+ margin-bottom: 0;
+}
+
+.order-list .txt {
+ display: table-cell;
+ vertical-align: middle;
+ padding-right: 20px;
+}
+
+.order-list li:before {
+ position: absolute;
+ top: 50%;
+ left: 25px;
+ margin-top: -68px;
+ display: block;
+ width: 135px;
+ height: 135px;
+ background-color: #333746;
+ background-repeat: no-repeat;
+ background-position: 50% 50%;
+ -webkit-border-radius: 50%;
+ -moz-border-radius: 50%;
+ border-radius: 50%;
+ content: '';
+}
+
+.order-list li:nth-child(1):before {
+ background-image: url("../images/order-icon1.png");
+}
+
+.order-list li:nth-child(2):before {
+ background-image: url("../images/order-icon2.png");
+}
+
+.order-list li:nth-child(3):before {
+ background-image: url("../images/order-icon3.png");
+}
+
+/*   footer   */
+
+.footer {
+ text-align: center;
+    padding: 20px 0 10px;
+}
+
+.footer img {
+ display: block;
+ margin: 0 auto 15px;
+}
+
+.footer a {
+ display: inline-block;
+ font-size: 16px;
+ color: #333;
+ margin: 0 10px;
+}
+
+.footer a:hover {
+ text-decoration: none;
+}
+
+.benef2{
+    padding: 0 30px 30px;
+}
+.benef2>li{
+	display: table;
+	width: 100%;
+	margin-bottom: 32px;
+	position: relative;
+}
+.benef2>li:not(:last-child):after{
+	content: '';
+	width: 180px;
+	height: 3px;
+	background: url(../images/benef2_item.png) 0% 50% repeat;
+	transform: rotate(30deg);
+	position: absolute;
+	bottom: -20px;
+	left: 120px;
+	z-index: 1;
+}
+.benef2>li:nth-child(2n):after{
+	transform: rotate(-30deg);
+	position: absolute;
+	bottom: -20px;
+	right: 120px;
+}
+.benef2>li:last-child{
+	margin-bottom: 0;
+}
+.benef2>li .img{
+	width: 166px;
+	display: table-cell;
+	vertical-align: middle;
+}
+.benef2>li .img>img{
+	display: block;
+	margin: 0 auto;
+	border-radius: 50%;
+	box-shadow: 0 0 30px 0 rgba(0,0,0,0.3);
+	position: relative;
+	z-index: 2;
+}
+.benef2>li>p{
+	display: table-cell;
+	vertical-align: middle;
+	padding: 0 0 0 26px;
+}
+.benef2>li>p>span{
+	display: block;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 1.2em;
+}
+.benef2>li:nth-child(2n)>p{
+	padding: 0 26px 0 0;
+	text-align: right;
+}
+
+.bottom .order_form{
+	    padding-top: 80px;
+}
+
+.offer_text {
+    font-size: 13px;
+    line-height: 27px;
+    text-transform: uppercase;
+    font-weight: 600;
+    position: relative;
+    letter-spacing: -0.1px;
+    margin-left: 10px;
+    height: 25px;
+    top: -101px;
+    color: #393d46;
+    margin: 0 auto;
+    text-align: center;
+    background: #fbb83b;
+}
+
+.offer_text>span {
+    padding-left: 12px;
+    padding-right: 12px;
+}
