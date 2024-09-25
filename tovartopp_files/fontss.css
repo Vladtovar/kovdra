@@ -1,0 +1,17 @@
+@font-face {
+ font-family: 'Acrom';
+ src: url('../fonts/subset-Acrom-Bold.woff2') format('woff2'),
+ url('https://luks-shop.store/ledlamp/fonts/subset-Acrom-Bold.woff') format('woff'),
+ url('https://luks-shop.store/ledlamp/fonts/subset-Acrom-Bold.ttf') format('truetype');
+ font-weight: 700;
+ font-style: normal;
+}
+
+@font-face {
+ font-family: 'Acrom';
+ src: url('../fonts/subset-Acrom-ExtraBold.woff2') format('woff2'),
+ url('https://luks-shop.store/ledlamp/fonts/subset-Acrom-ExtraBold.woff') format('woff'),
+ url('https://luks-shop.store/ledlamp/fonts/subset-Acrom-ExtraBold.ttf') format('truetype');
+ font-weight: 800;
+ font-style: normal;
+}
